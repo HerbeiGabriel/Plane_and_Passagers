@@ -1,1 +1,1 @@
-# Plane_and_Passagers
+This is a simple student management app that helps keep track of students and their grades. It includes features to search for students, sort them using bubble sort, and update their details. The app also has tests to check if everything works properly. It was a good way to practice working with Python classes, unit testing, and algorithms like sorting and backtracking
